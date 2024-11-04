@@ -3,11 +3,11 @@
 1. Install dependencies
 
 ```sh
-npm i
+yarn i
 ```
 
 2. run the app
 
 ```sh
-npm run dev
+yarn dev
 ```
